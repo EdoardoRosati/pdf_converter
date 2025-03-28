@@ -1,0 +1,228 @@
+22-1-2025 Supplemento ordinario n. 3 alla GAZZETTA UFFICIALE Serie generale - n. 17
+Art. 86. 2. Le clausole di revisione dei prezzi introdotte ai sensi
+dell’articolo 60 sono attivate automaticamente dalla stazione
+Inserimento dell’allegato II.2- bis
+appaltante, anche in assenza di istanza di parte, quando la va-
+al decreto legislativo 31 marzo 2023
+riazione dell’indice sintetico, calcolato in coerenza con la Se-
+zione II per gli appalti di lavori, ovvero la variazione dell’in-
+1. Dopo l’Allegato II.2 “Metodi di calcolo della soglia di
+dice o del sistema ponderato di indici, calcolato in coerenza
+anomalia per l’esclusione automatica delle offerte” al decre-
+con la Sezione III per gli appalti di servizi e forniture, supera,
+to legislativo 31 marzo 2023, n. 36, è inserito il seguente:
+in aumento o diminuzione, rispettivamente la soglia del 3 per
+cento e la soglia del 5 per cento dell’importo del contratto
+“Allegato II.2- bis Modalità di applicazione delle clausole di
+quale risultante dal provvedimento di aggiudicazione.
+revisione dei prezzi
+3. Le clausole di revisione dei prezzi si applicano nella
+misura del 90 per cento del valore eccedente la variazione
+(articolo 60, comma 4- ter )
+del 3 per cento per i lavori e nella misura dell’80 per cento
+del valore eccedente la variazione del 5 per cento per i servizi
+SEZIONE I e forniture, applicata alle prestazioni da eseguire dopo l’atti-
+DISPOSIZIONI GENERALI vazione della clausola di revisione.
+Articolo 1
+SEZIONE II
+Ambito di applicazione REVISIONE PREZZI PER I CONTRATTI DI LAVORI
+1. Il presente allegato disciplina le modalità di attuazione
+delle clausole di revisione dei prezzi di cui all’articolo 60 del Articolo 4
+codice, tenuto conto della natura, del settore merceologico Indice sintetico revisionale per i contratti di lavori
+dell’appalto e degli indici disponibili, e ne specifica le moda- 1. Ai fini della determinazione della variazione del costo
+lità di corresponsione, anche in considerazione dell’eventua- dei contratti di lavori ai sensi dell’articolo 60, comma 3, let-
+le ricorso al subappalto. tera a ) , del codice si utilizza l’indice sintetico revisionale di
+2. Nel caso di appalti di lavori, la revisione dei prezzi si cui al presente articolo.
+applica ai lavori di nuova costruzione, nonché ai lavori di
+2. Il progettista, in sede di elaborazione del progetto a
+manutenzione straordinaria e ordinaria.
+base di gara, individua l’indice sintetico da utilizzare per la
+3. Nel caso di appalti di servizi o forniture, la revisione revisione dei prezzi. L’indice sintetico è composto da una
+prezzi si applica ai contratti di durata, il cui oggetto non con- media ponderata di indici, selezionati tra quelli individuati
+siste in una prestazione ad esecuzione istantanea. con provvedimento adottato dal Ministero dell’infrastruttu-
+4. In caso di contratti misti, si applicano, alla componente re e dei trasporti, sentito l’ISTAT, ai sensi dell’articolo 60,
+di lavori, le disposizioni di cui alla Sezione II del presente comma 4, del codice, sulla base delle tipologie omogenee
+Allegato e, alla componente di forniture e servizi, le disposi- di lavorazioni di cui alla Tabella A, tenuto conto delle lavo-
+zioni di cui alla Sezione III del presente Allegato. razioni del progetto posto a base di gara. Il valore di riferi-
+mento per il calcolo dell’indice sintetico è quello dell’indice
+Articolo 2.
+revisionale relativo al mese del provvedimento di aggiudi-
+Clausole di revisione prezzi e equilibrio contrattuale
+cazione. I documenti iniziali di gara prevedono che, in caso
+1. Nei documenti di gara iniziali delle procedure di affida- di sospensione o proroga dei termini di aggiudicazione nelle
+mento, è obbligatorio l’inserimento di clausole di revisione ipotesi di cui all’articolo 1, commi 3, 4 e 5 dell’Allegato I.3.,
+dei prezzi, redatte conformemente ai requisiti del presente il valore di riferimento per il calcolo dell’indice sintetico è
+Allegato, al fine di fornire meccanismi automatici di riequi- quello dell’indice revisionale relativo al mese di scadenza
+librio contrattuale al verificarsi delle particolari condizioni di del termine massimo per l’aggiudicazione, come individuato
+cui all’articolo 60, comma 2, del codice. dall’articolo 1, commi 1 e 2 del predetto Allegato.
+2. Quando l’applicazione dell’articolo 60 del codice non 3. Per procedere alla formazione dell’indice sintetico, il
+garantisce il principio di conservazione dell’equilibrio con- progettista:
+trattuale e non è possibile garantire il medesimo principio
+a. scompone e classifica l’importo complessivo del
+mediante rinegoziazione secondo buona fede, è sempre fatta
+progetto a base di gara, quale risultante dal provvedimento
+salva, ai sensi dell’articolo 12, comma 1, lettera b ) , la possi-
+di aggiudicazione, secondo le tipologie omogenee di lavora-
+bilità per la stazione appaltante o l’appaltatore di invocare la
+zioni (TOL) indicate nella Tabella A.1., tenendo conto delle
+risoluzione per eccessiva onerosità sopravvenuta del contrat-
+relative declaratorie, rappresentate nella Tabella A.2, attri-
+to. In tutti i casi di risoluzione del contratto ai sensi del pre-
+buendo precedenza alle TOL specializzate.
+sente comma, si applica l’articolo 122, comma 5, del codice.
+b. determina, sulla base della suddivisione di cui alla
+Articolo 3
+lettera a ) , il peso percentuale di ogni TOL, calcolato come
+Attivazione delle clausole di revisione prezzi rapporto tra l’importo complessivo delle lavorazioni associa-
+1. Le stazioni appaltanti monitorano l’andamento degli te a ciascuna TOL e l’importo complessivo dei lavori oggetto
+indici di cui all’articolo 60 del codice con la frequenza indi- dell’appalto; è fatta salva la possibilità di espungere dal pre-
+cata nei documenti di gara iniziali, comunque non superiore detto calcolo, solo nel caso della metodologia di calcolo di
+a quella di aggiornamento degli indici revisionali applicati cui alla Tabella B, per esigenze di semplificazione, le TOL
+all’appalto, al fine di valutare se sussistono le condizioni per che presentano un peso percentuale inferiore al 4% dell’im-
+l’attivazione delle clausole di revisione prezzi. porto dei lavori;
+— 33 —
+
+22-1-2025 Supplemento ordinario n. 3 alla GAZZETTA UFFICIALE Serie generale - n. 17
+c. calcola l’indice sintetico del progetto, di seguito Is, da applicare a tutte le lavorazioni oggetto dell’appalto,
+secondo la seguente formula:
+(cid:2919)(cid:2880)(cid:2924)
+(cid:12) (cid:3404)(cid:3533)(cid:146) (cid:3)(cid:3400)(cid:3)(cid:12) (cid:3)
+(cid:2903) (cid:2919) (cid:2904)(cid:2899)(cid:2896)(cid:2919)
+(cid:2919)(cid:2880)(cid:2869)
+(cid:11)(cid:71)(cid:82)(cid:89)(cid:72)(cid:3)(cid:83)(cid:3)(cid:113)(cid:3)(cid:76)(cid:79)(cid:3)(cid:83)(cid:72)(cid:86)(cid:82)(cid:3)(cid:83)(cid:72)(cid:85)(cid:70)(cid:72)(cid:81)(cid:87)(cid:88)(cid:68)(cid:79)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:68)(cid:3)(cid:86)(cid:76)(cid:81)(cid:74)(cid:82)(cid:79)(cid:68)(cid:3)(cid:55)(cid:50)(cid:47)(cid:3)(cid:83)(cid:85)(cid:72)(cid:86)(cid:68)(cid:3)(cid:76)(cid:81)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:12)(cid:17)(cid:3)(cid:3)
+(cid:76)
+4. Gli oneri relativi alla componente rifiuti si intendono sempre ricompresi all’interno delle singole TOL, ad ec-
+cezione delle TOL 4, 9, 10, 18 e 19 di cui alla Tabella A.1. Per le predette cinque TOL, il progettista valuta l’elemento
+di costo relativo ai rifiuti, facendo riferimento alla TOL 20, e individuandone, il relativo peso percentuale.
+Articolo 5
+Verifica della variazione del costo dei contratti, modalità e termini di pagamento della revisione prezzi
+1. Le stazioni appaltanti verificano la variazione del costo dei contratti di lavori con la cadenza stabilita dall’ar-
+ticolo 3, comma 1. La variazione è calcolata come differenza tra il valore dell’indice sintetico al momento della rile-
+vazione e il corrispondente valore al mese di aggiudicazione della miglior offerta, fatto salvo quanto previsto dall’ar-
+ticolo 4, comma 2, quarto periodo.
+2. Quando, in occasione delle verifiche di cui al comma 1, si realizza la condizione di cui all’articolo 3, comma 2,
+il direttore dei lavori provvede all’accertamento e a darne comunicazione al RUP e all’appaltatore.
+3. La determinazione delle somme, in aumento o in diminuzione, dovute a titolo di revisione dei prezzi avviene in
+corrispondenza della scadenza degli stati di avanzamento dei lavori adottati, a decorrere dalla data dell’accertamento
+di cui al comma 2, ai sensi dell’articolo 125, comma 3 del codice.
+4. Ai fini di cui al comma 2, il direttore dei lavori trasmette alla stazione appaltante, ad integrazione di ciascun
+stato di avanzamento dei lavori adottato ai sensi dell’articolo 125, comma 3, uno stato di avanzamento dei lavori
+revisionale. L’importo dello stato di avanzamento dei lavori revisionale, in aumento o in diminuzione, è determinato
+applicando la metodologia di calcolo di cui alla Tabella B.
+5. I documenti iniziali di gara possono prevedere per il calcolo degli stati di avanzamento dei lavori revisionali
+il ricorso all’alternativa metodologia di cui alla Tabella C. La stazione appaltante motiva nella determina a contrarre
+le ragioni del ricorso alla predetta metodologia alternativa, che non può essere modificata nel corso dell’esecuzione
+del contratto. In assenza di esplicita previsione nei documenti di gara iniziali, si applica la metodologia di cui alla
+Tabella B.
+6. La stazione appaltante provvede alla regolazione dell’importo revisionale, in aumento o in diminuzione, in
+occasione del pagamento di ciascun stato di avanzamento dei lavori, secondo la cadenza contrattuale dei medesimi.
+7. Prima del pagamento della rata di saldo di cui all’articolo 125, comma 7, la stazione appaltante verifica la
+regolazione degli importi dovuti a titolo di revisione dei prezzi. Gli eventuali importi non regolati sono compensati, in
+aumento o in diminuzione, a valere sulla rata di saldo.
+8. Resta ferma la possibilità di prevedere nel contratto modalità semplificate di pagamento degli importi dovuti a
+titolo di revisione prezzi, previa adozione di un unico stato di avanzamento dei lavori che riporti separatamente l’im-
+porto contrattuale di cui all’articolo 125, comma 3 e l’importo revisionale, determinato ai sensi del presente Allegato.
+Articolo 6
+Accordi quadro
+1. Nel caso di accordi quadro, i documenti iniziali della procedura di affidamento prevedono che l’indice sinteti-
+co è individuato al momento della stipula di ciascun contratto di lavori attuativo dell’accordo medesimo, in funzione
+delle lavorazioni dal medesimo previste, dei relativi importi e degli indici TOL associati.
+2. Nelle ipotesi di cui al presente articolo, la revisione prezzi è applicata sulla base dei criteri e secondo le moda-
+lità di cui agli articoli 4 e 5, fermo restando che:
+a) l’importo complessivo di cui all’articolo 60, comma 1 è quello risultante dalla stipula del contratto attuativo;
+b) l’indice sintetico da utilizzare per la revisione dei prezzi è individuato in ciascun contratto attuativo, in fun-
+zione delle lavorazioni ivi previste, dei relativi importi e degli indici TOL ad esse associati;
+c) il valore di riferimento per il calcolo dell’indice sintetico è quello dell’indice sintetico relativo al mese di
+aggiudicazione della miglior offerta, fatto salvo quanto previsto dall’articolo 4, comma 2, quarto periodo;
+d) l’importo di ciascun stato di avanzamento dei lavori revisionale è determinato secondo i criteri di cui all’ar-
+ticolo 5, comma 4.
+— 34 —
+
+22-1-2025 Supplemento ordinario n. 3 alla GAZZETTA UFFICIALE Serie generale - n. 17
+TABELLA A
+(articolo 4, commi 2 e 3)
+1. La Tabella A.1. reca l’elenco delle venti tipologie omogenee di lavorazioni (TOL) in relazione alle quali, ai sen-
+si del comma 4 dell’articolo 60, con provvedimento adottato dal Ministero dell’infrastrutture e dei trasporti, sentito
+l’ISTAT, sono adottati gli indici di base da ponderare ai fini della determinazione dell’indice sintetico revisionale di
+cui all’articolo 4.
+(cid:55)(cid:36)(cid:37)(cid:40)(cid:47)(cid:47)(cid:36)(cid:3)(cid:36)(cid:17)(cid:20)(cid:17)(cid:3)
+(cid:38)(cid:50)(cid:39)(cid:44)(cid:38)(cid:40)(cid:3)
+(cid:39)(cid:40)(cid:54)(cid:38)(cid:53)(cid:44)(cid:61)(cid:44)(cid:50)(cid:49)(cid:40)(cid:3)(cid:55)(cid:44)(cid:51)(cid:50)(cid:47)(cid:50)(cid:42)(cid:44)(cid:40)(cid:3)(cid:50)(cid:48)(cid:50)(cid:42)(cid:40)(cid:49)(cid:40)(cid:40)(cid:3)(cid:47)(cid:36)(cid:57)(cid:50)(cid:53)(cid:36)(cid:61)(cid:44)(cid:50)(cid:49)(cid:44)(cid:3)(cid:11)(cid:55)(cid:17)(cid:50)(cid:17)(cid:47)(cid:17)(cid:12)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:3) (cid:50)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:72)(cid:71)(cid:76)(cid:79)(cid:76)(cid:3)(cid:86)(cid:88)(cid:3)(cid:72)(cid:71)(cid:76)(cid:73)(cid:76)(cid:70)(cid:76)(cid:3)(cid:72)(cid:3)(cid:80)(cid:68)(cid:81)(cid:88)(cid:73)(cid:68)(cid:87)(cid:87)(cid:76)(cid:3)(cid:81)(cid:82)(cid:81)(cid:3)(cid:86)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:76)(cid:3)(cid:68)(cid:3)(cid:87)(cid:88)(cid:87)(cid:72)(cid:79)(cid:68)(cid:3)(cid:71)(cid:72)(cid:76)(cid:3)(cid:69)(cid:72)(cid:81)(cid:76)(cid:3)(cid:70)(cid:88)(cid:79)(cid:87)(cid:88)(cid:85)(cid:68)(cid:79)(cid:76)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:21)(cid:3) (cid:50)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:72)(cid:71)(cid:76)(cid:79)(cid:76)(cid:3)(cid:86)(cid:88)(cid:3)(cid:72)(cid:71)(cid:76)(cid:73)(cid:76)(cid:70)(cid:76)(cid:3)(cid:72)(cid:3)(cid:80)(cid:68)(cid:81)(cid:88)(cid:73)(cid:68)(cid:87)(cid:87)(cid:76)(cid:3)(cid:86)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:76)(cid:3)(cid:68)(cid:3)(cid:87)(cid:88)(cid:87)(cid:72)(cid:79)(cid:68)(cid:3)(cid:71)(cid:72)(cid:76)(cid:3)(cid:69)(cid:72)(cid:81)(cid:76)(cid:3)(cid:70)(cid:88)(cid:79)(cid:87)(cid:88)(cid:85)(cid:68)(cid:79)(cid:76)(cid:3)
+(cid:54)(cid:70)(cid:68)(cid:89)(cid:76)(cid:3)(cid:68)(cid:85)(cid:70)(cid:75)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)(cid:85)(cid:72)(cid:86)(cid:87)(cid:68)(cid:88)(cid:85)(cid:76)(cid:3)(cid:86)(cid:83)(cid:72)(cid:70)(cid:76)(cid:68)(cid:79)(cid:76)(cid:86)(cid:87)(cid:76)(cid:70)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:69)(cid:72)(cid:81)(cid:76)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:83)(cid:68)(cid:87)(cid:85)(cid:76)(cid:80)(cid:82)(cid:81)(cid:76)(cid:82)(cid:3)(cid:70)(cid:88)(cid:79)(cid:87)(cid:88)(cid:85)(cid:68)(cid:79)(cid:72)(cid:3)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:22)(cid:3)
+(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:72)(cid:86)(cid:86)(cid:72)(cid:3)(cid:86)(cid:87)(cid:82)(cid:85)(cid:76)(cid:70)(cid:82)(cid:3)
+(cid:47)(cid:68)(cid:89)(cid:82)(cid:85)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:80)(cid:82)(cid:89)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:87)(cid:72)(cid:85)(cid:85)(cid:68)(cid:15)(cid:3)(cid:71)(cid:72)(cid:80)(cid:82)(cid:79)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:83)(cid:85)(cid:82)(cid:87)(cid:72)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:68)(cid:80)(cid:69)(cid:76)(cid:72)(cid:81)(cid:87)(cid:68)(cid:79)(cid:72)(cid:15)(cid:3)(cid:76)(cid:81)(cid:74)(cid:72)(cid:74)(cid:81)(cid:72)(cid:85)(cid:76)(cid:68)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:23)(cid:3)
+(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:68)(cid:79)(cid:76)(cid:86)(cid:87)(cid:76)(cid:70)(cid:68)(cid:3)(cid:72)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:68)(cid:3)(cid:89)(cid:72)(cid:85)(cid:71)(cid:72)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:24)(cid:3) (cid:51)(cid:68)(cid:89)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:70)(cid:82)(cid:81)(cid:74)(cid:79)(cid:82)(cid:80)(cid:72)(cid:85)(cid:68)(cid:87)(cid:82)(cid:3)(cid:69)(cid:76)(cid:87)(cid:88)(cid:80)(cid:76)(cid:81)(cid:82)(cid:86)(cid:82)(cid:3)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:25)(cid:3) (cid:54)(cid:87)(cid:85)(cid:88)(cid:87)(cid:87)(cid:88)(cid:85)(cid:72)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:74)(cid:72)(cid:74)(cid:81)(cid:72)(cid:85)(cid:76)(cid:68)(cid:3)(cid:72)(cid:3)(cid:80)(cid:68)(cid:81)(cid:88)(cid:73)(cid:68)(cid:87)(cid:87)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:68)(cid:70)(cid:70)(cid:76)(cid:68)(cid:76)(cid:82)(cid:3)
+(cid:54)(cid:87)(cid:85)(cid:88)(cid:87)(cid:87)(cid:88)(cid:85)(cid:72)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:74)(cid:72)(cid:74)(cid:81)(cid:72)(cid:85)(cid:76)(cid:68)(cid:3)(cid:72)(cid:3)(cid:80)(cid:68)(cid:81)(cid:88)(cid:73)(cid:68)(cid:87)(cid:87)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:70)(cid:68)(cid:79)(cid:70)(cid:72)(cid:86)(cid:87)(cid:85)(cid:88)(cid:93)(cid:93)(cid:82)(cid:3)(cid:68)(cid:85)(cid:80)(cid:68)(cid:87)(cid:82)(cid:15)(cid:3)(cid:68)(cid:81)(cid:70)(cid:75)(cid:72)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:26)(cid:3)
+(cid:83)(cid:85)(cid:72)(cid:73)(cid:68)(cid:69)(cid:69)(cid:85)(cid:76)(cid:70)(cid:68)(cid:87)(cid:82)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:27)(cid:3) (cid:54)(cid:87)(cid:85)(cid:88)(cid:87)(cid:87)(cid:88)(cid:85)(cid:72)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:74)(cid:72)(cid:74)(cid:81)(cid:72)(cid:85)(cid:76)(cid:68)(cid:3)(cid:72)(cid:3)(cid:80)(cid:68)(cid:81)(cid:88)(cid:73)(cid:68)(cid:87)(cid:87)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:79)(cid:72)(cid:74)(cid:81)(cid:82)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:28)(cid:3) (cid:42)(cid:68)(cid:79)(cid:79)(cid:72)(cid:85)(cid:76)(cid:72)(cid:3)(cid:72)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:10)(cid:68)(cid:85)(cid:87)(cid:72)(cid:3)(cid:81)(cid:72)(cid:79)(cid:3)(cid:86)(cid:82)(cid:87)(cid:87)(cid:82)(cid:86)(cid:88)(cid:82)(cid:79)(cid:82)(cid:3)(cid:85)(cid:72)(cid:68)(cid:79)(cid:76)(cid:93)(cid:93)(cid:68)(cid:87)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:3)(cid:80)(cid:72)(cid:87)(cid:82)(cid:71)(cid:82)(cid:3)(cid:87)(cid:85)(cid:68)(cid:71)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:72)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:19)(cid:3) (cid:42)(cid:68)(cid:79)(cid:79)(cid:72)(cid:85)(cid:76)(cid:72)(cid:3)(cid:72)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:10)(cid:68)(cid:85)(cid:87)(cid:72)(cid:3)(cid:81)(cid:72)(cid:79)(cid:3)(cid:86)(cid:82)(cid:87)(cid:87)(cid:82)(cid:86)(cid:88)(cid:82)(cid:79)(cid:82)(cid:3)(cid:85)(cid:72)(cid:68)(cid:79)(cid:76)(cid:93)(cid:93)(cid:68)(cid:87)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:3)(cid:80)(cid:72)(cid:87)(cid:82)(cid:71)(cid:82)(cid:3)(cid:80)(cid:72)(cid:70)(cid:70)(cid:68)(cid:81)(cid:76)(cid:93)(cid:93)(cid:68)(cid:87)(cid:82)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:20)(cid:3) (cid:36)(cid:70)(cid:84)(cid:88)(cid:72)(cid:71)(cid:82)(cid:87)(cid:87)(cid:76)(cid:15)(cid:3)(cid:74)(cid:68)(cid:86)(cid:71)(cid:82)(cid:87)(cid:87)(cid:76)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:85)(cid:85)(cid:76)(cid:74)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:72)(cid:3)(cid:73)(cid:82)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:21)(cid:3) (cid:50)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:80)(cid:68)(cid:85)(cid:76)(cid:87)(cid:87)(cid:76)(cid:80)(cid:72)(cid:3)(cid:72)(cid:3)(cid:79)(cid:68)(cid:89)(cid:82)(cid:85)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:71)(cid:85)(cid:68)(cid:74)(cid:68)(cid:74)(cid:74)(cid:76)(cid:82)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:73)(cid:79)(cid:88)(cid:89)(cid:76)(cid:68)(cid:79)(cid:76)(cid:3)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:71)(cid:76)(cid:73)(cid:72)(cid:86)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:86)(cid:88)(cid:82)(cid:79)(cid:82)(cid:3)
+(cid:44)(cid:80)(cid:83)(cid:76)(cid:68)(cid:81)(cid:87)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:83)(cid:85)(cid:82)(cid:71)(cid:88)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:15)(cid:3)(cid:87)(cid:85)(cid:68)(cid:86)(cid:73)(cid:82)(cid:85)(cid:80)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:87)(cid:85)(cid:76)(cid:69)(cid:88)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:72)(cid:81)(cid:72)(cid:85)(cid:74)(cid:76)(cid:68)(cid:3)(cid:72)(cid:79)(cid:72)(cid:87)(cid:87)(cid:85)(cid:76)(cid:70)(cid:68)(cid:3)(cid:76)(cid:81)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:22)(cid:3)
+(cid:68)(cid:79)(cid:87)(cid:68)(cid:3)(cid:72)(cid:3)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:3)(cid:87)(cid:72)(cid:81)(cid:86)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:87)(cid:85)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:72)(cid:79)(cid:72)(cid:87)(cid:87)(cid:85)(cid:76)(cid:70)(cid:68)(cid:3)(cid:72)(cid:3)(cid:79)(cid:10)(cid:76)(cid:79)(cid:79)(cid:88)(cid:80)(cid:76)(cid:81)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:88)(cid:69)(cid:69)(cid:79)(cid:76)(cid:70)(cid:68)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:23)(cid:3) (cid:44)(cid:80)(cid:83)(cid:76)(cid:68)(cid:81)(cid:87)(cid:76)(cid:3)(cid:72)(cid:79)(cid:72)(cid:87)(cid:87)(cid:85)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)(cid:87)(cid:72)(cid:70)(cid:81)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)(cid:85)(cid:68)(cid:71)(cid:76)(cid:82)(cid:87)(cid:72)(cid:79)(cid:72)(cid:73)(cid:82)(cid:81)(cid:76)(cid:70)(cid:76)(cid:3)(cid:72)(cid:3)(cid:68)(cid:81)(cid:87)(cid:76)(cid:81)(cid:87)(cid:85)(cid:88)(cid:86)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:24)(cid:3) (cid:44)(cid:80)(cid:83)(cid:76)(cid:68)(cid:81)(cid:87)(cid:76)(cid:3)(cid:80)(cid:72)(cid:70)(cid:70)(cid:68)(cid:81)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)(cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:81)(cid:71)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:15)(cid:3)(cid:76)(cid:71)(cid:85)(cid:76)(cid:70)(cid:82)(cid:3)(cid:86)(cid:68)(cid:81)(cid:76)(cid:87)(cid:68)(cid:85)(cid:76)(cid:3)(cid:72)(cid:3)(cid:87)(cid:85)(cid:68)(cid:86)(cid:83)(cid:82)(cid:85)(cid:87)(cid:68)(cid:87)(cid:82)(cid:85)(cid:76)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:25)(cid:3) (cid:44)(cid:80)(cid:83)(cid:76)(cid:68)(cid:81)(cid:87)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:83)(cid:82)(cid:87)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:93)(cid:93)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:72)(cid:3)(cid:71)(cid:72)(cid:83)(cid:88)(cid:85)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:26)(cid:3) (cid:44)(cid:80)(cid:83)(cid:76)(cid:68)(cid:81)(cid:87)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:86)(cid:72)(cid:74)(cid:81)(cid:68)(cid:79)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:15)(cid:3)(cid:86)(cid:76)(cid:70)(cid:88)(cid:85)(cid:72)(cid:93)(cid:93)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:87)(cid:85)(cid:68)(cid:73)(cid:73)(cid:76)(cid:70)(cid:82)(cid:3)(cid:72)(cid:3)(cid:87)(cid:72)(cid:79)(cid:72)(cid:70)(cid:82)(cid:80)(cid:88)(cid:81)(cid:76)(cid:70)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:27)(cid:3) (cid:36)(cid:85)(cid:80)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:73)(cid:72)(cid:85)(cid:85)(cid:82)(cid:89)(cid:76)(cid:68)(cid:85)(cid:76)(cid:82)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:20)(cid:28)(cid:3) (cid:50)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:73)(cid:82)(cid:81)(cid:71)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:86)(cid:83)(cid:72)(cid:70)(cid:76)(cid:68)(cid:79)(cid:72)(cid:15)(cid:3)(cid:76)(cid:81)(cid:71)(cid:68)(cid:74)(cid:76)(cid:81)(cid:76)(cid:3)(cid:74)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:75)(cid:72)(cid:3)(cid:72)(cid:3)(cid:74)(cid:72)(cid:82)(cid:87)(cid:72)(cid:70)(cid:81)(cid:76)(cid:70)(cid:75)(cid:72)(cid:3)
+(cid:55)(cid:50)(cid:47)(cid:17)(cid:21)(cid:19)(cid:3) (cid:38)(cid:82)(cid:81)(cid:73)(cid:72)(cid:85)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:85)(cid:76)(cid:73)(cid:76)(cid:88)(cid:87)(cid:76)(cid:3)(cid:68)(cid:3)(cid:76)(cid:80)(cid:83)(cid:76)(cid:68)(cid:81)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:86)(cid:80)(cid:68)(cid:79)(cid:87)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:82)(cid:3)(cid:85)(cid:72)(cid:70)(cid:88)(cid:83)(cid:72)(cid:85)(cid:82)(cid:3)
+2. Nei provvedimenti adottati ai sensi dell’articolo 60, comma 4, del codice, per ciascuna TOL, l’indice di riferi-
+mento di base è elaborato:
+a) ponderando il peso relativo a sei elementi di costo: costo del lavoro; materiali; macchine e attrezzature; ener-
+gia, trasporto; rifiuti;
+b) individuando per ogni elemento di costo delle singole TOL i rispettivi componenti elementari.
+3. I venti indici, elaborati sulla base della predetta metodologia, consentono di calcolare la revisione prezzi, nel
+rispetto delle modalità di cui all’articolo 4 del presente Allegato, per tutte le tipologie di lavorazioni.
+4. La Tabella A.2. individua, relativamente alle TOL di cui alla Tabella A.1., le declaratorie che descrivono le lavo-
+razioni e attività ricomprese all’interno di ciascuna di esse.
+— 38 —
+
+22-1-2025 Supplemento ordinario n. 3 alla GAZZETTA UFFICIALE Serie generale - n. 17
+(cid:55)(cid:36)(cid:37)(cid:40)(cid:47)(cid:47)(cid:36)(cid:3)(cid:36)(cid:17)(cid:21)(cid:17)(cid:3)
+(cid:53)(cid:40)(cid:57)(cid:44)(cid:54)(cid:44)(cid:50)(cid:49)(cid:40)(cid:3)(cid:51)(cid:53)(cid:40)(cid:61)(cid:61)(cid:44)(cid:3)(cid:16)(cid:3)(cid:55)(cid:44)(cid:51)(cid:50)(cid:47)(cid:50)(cid:42)(cid:44)(cid:40)(cid:3)(cid:50)(cid:48)(cid:50)(cid:42)(cid:40)(cid:49)(cid:40)(cid:40)(cid:3)(cid:47)(cid:36)(cid:57)(cid:50)(cid:53)(cid:36)(cid:61)(cid:44)(cid:50)(cid:49)(cid:44)(cid:3)(cid:11)(cid:55)(cid:17)(cid:50)(cid:17)(cid:47)(cid:17)(cid:12)(cid:3)(cid:39)(cid:40)(cid:38)(cid:47)(cid:36)(cid:53)(cid:36)(cid:55)(cid:50)(cid:53)(cid:44)(cid:40)(cid:3)
+(cid:49)(cid:17)(cid:3) (cid:38)(cid:50)(cid:39)(cid:44)(cid:38)(cid:40)(cid:3) (cid:38)(cid:50)(cid:39)(cid:44)(cid:38)(cid:40)(cid:3) (cid:39)(cid:40)(cid:54)(cid:38)(cid:53)(cid:44)(cid:61)(cid:44)(cid:50)(cid:49)(cid:40)(cid:3) (cid:39)(cid:40)(cid:54)(cid:38)(cid:53)(cid:44)(cid:61)(cid:44)(cid:50)(cid:49)(cid:40)(cid:3) (cid:40)(cid:54)(cid:55)(cid:40)(cid:54)(cid:36)(cid:3) (cid:55)(cid:44)(cid:51)(cid:50)(cid:47)(cid:50)(cid:42)(cid:44)(cid:40)(cid:3)
+(cid:55)(cid:17)(cid:50)(cid:17)(cid:47)(cid:17)(cid:3) (cid:55)(cid:17)(cid:50)(cid:17)(cid:47)(cid:17)(cid:3) (cid:37)(cid:53)(cid:40)(cid:57)(cid:40)(cid:3) (cid:50)(cid:48)(cid:50)(cid:42)(cid:40)(cid:49)(cid:40)(cid:40)(cid:3)(cid:47)(cid:36)(cid:57)(cid:50)(cid:53)(cid:36)(cid:61)(cid:44)(cid:50)(cid:49)(cid:44)(cid:3)(cid:11)(cid:55)(cid:17)(cid:50)(cid:17)(cid:47)(cid:17)(cid:12)(cid:3)
+(cid:54)(cid:51)(cid:40)(cid:38)(cid:44)(cid:36)(cid:47)(cid:44)(cid:61) (cid:42)(cid:40)(cid:49)(cid:40)(cid:53)(cid:36) (cid:55)(cid:44)(cid:51)(cid:50)(cid:47)(cid:50)(cid:42)(cid:44)(cid:40)(cid:3)
+(cid:61)(cid:36)(cid:55)(cid:40)(cid:3) (cid:47)(cid:44)(cid:3) (cid:50)(cid:48)(cid:50)(cid:42)(cid:40)(cid:49)(cid:40)(cid:40)(cid:3)
+(cid:47)(cid:36)(cid:57)(cid:50)(cid:53)(cid:36)(cid:61)(cid:44)(cid:50)(cid:49)(cid:44)(cid:3)
+(cid:11)(cid:55)(cid:17)(cid:50)(cid:17)(cid:47)(cid:17)(cid:12)(cid:3)
+(cid:20)(cid:3) (cid:3)(cid:3) (cid:55)(cid:17)(cid:50)(cid:17)(cid:47)(cid:17)(cid:20)(cid:3) (cid:50)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3) (cid:72)(cid:71)(cid:76)(cid:79)(cid:76)(cid:3) (cid:86)(cid:88)(cid:3) (cid:53)(cid:76)(cid:74)(cid:88)(cid:68)(cid:85)(cid:71)(cid:68)(cid:3) (cid:79)(cid:68)(cid:3) (cid:81)(cid:88)(cid:82)(cid:89)(cid:68)(cid:3) (cid:70)(cid:82)(cid:86)(cid:87)(cid:85)(cid:88)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:15)(cid:3) (cid:79)(cid:68)(cid:3)
+(cid:72)(cid:71)(cid:76)(cid:73)(cid:76)(cid:70)(cid:76)(cid:3) (cid:72)(cid:3) (cid:80)(cid:68)(cid:81)(cid:88)(cid:87)(cid:72)(cid:81)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:15)(cid:3) (cid:79)(cid:68)(cid:3) (cid:85)(cid:76)(cid:86)(cid:87)(cid:85)(cid:88)(cid:87)(cid:87)(cid:88)(cid:85)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3) (cid:82)(cid:3) (cid:76)(cid:79)(cid:3)
+(cid:80)(cid:68)(cid:81)(cid:88)(cid:73)(cid:68)(cid:87)(cid:87)(cid:76)(cid:3) (cid:81)(cid:82)(cid:81)(cid:3) (cid:70)(cid:82)(cid:81)(cid:86)(cid:82)(cid:79)(cid:76)(cid:71)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:72)(cid:71)(cid:76)(cid:73)(cid:76)(cid:70)(cid:76)(cid:3)(cid:70)(cid:76)(cid:89)(cid:76)(cid:79)(cid:76)(cid:3)(cid:72)(cid:3)(cid:76)(cid:81)(cid:71)(cid:88)(cid:86)(cid:87)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:3)
+(cid:86)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:76)(cid:3)(cid:68)(cid:3)(cid:87)(cid:88)(cid:87)(cid:72)(cid:79)(cid:68)(cid:3) (cid:81)(cid:82)(cid:81)(cid:3)(cid:86)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:76)(cid:3)(cid:68)(cid:3)(cid:87)(cid:88)(cid:87)(cid:72)(cid:79)(cid:68)(cid:3)(cid:71)(cid:72)(cid:76)(cid:3)(cid:69)(cid:72)(cid:81)(cid:76)(cid:3)(cid:70)(cid:88)(cid:79)(cid:87)(cid:88)(cid:85)(cid:68)(cid:79)(cid:76)(cid:3)(cid:84)(cid:88)(cid:68)(cid:79)(cid:76)(cid:15)(cid:3)
+(cid:71)(cid:72)(cid:76)(cid:3) (cid:69)(cid:72)(cid:81)(cid:76)(cid:3) (cid:76)(cid:81)(cid:3)(cid:89)(cid:76)(cid:68)(cid:3)(cid:72)(cid:86)(cid:72)(cid:80)(cid:83)(cid:79)(cid:76)(cid:73)(cid:76)(cid:70)(cid:68)(cid:87)(cid:76)(cid:89)(cid:68)(cid:15)(cid:3)(cid:79)(cid:72)(cid:3)(cid:85)(cid:72)(cid:86)(cid:76)(cid:71)(cid:72)(cid:81)(cid:93)(cid:72)(cid:15)(cid:3)(cid:79)(cid:72)(cid:3)(cid:70)(cid:68)(cid:85)(cid:70)(cid:72)(cid:85)(cid:76)(cid:15)(cid:3)
+(cid:70)(cid:88)(cid:79)(cid:87)(cid:88)(cid:85)(cid:68)(cid:79)(cid:76)(cid:3) (cid:79)(cid:72)(cid:3)(cid:86)(cid:70)(cid:88)(cid:82)(cid:79)(cid:72)(cid:15)(cid:3)(cid:79)(cid:72)(cid:3)(cid:70)(cid:68)(cid:86)(cid:72)(cid:85)(cid:80)(cid:72)(cid:15)(cid:3)(cid:74)(cid:79)(cid:76)(cid:3)(cid:88)(cid:73)(cid:73)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)(cid:76)(cid:3)(cid:87)(cid:72)(cid:68)(cid:87)(cid:85)(cid:76)(cid:15)(cid:3)(cid:74)(cid:79)(cid:76)(cid:3)
+(cid:82)(cid:86)(cid:83)(cid:72)(cid:71)(cid:68)(cid:79)(cid:76)(cid:15)(cid:3)(cid:74)(cid:79)(cid:76)(cid:3)(cid:86)(cid:87)(cid:68)(cid:71)(cid:76)(cid:15)(cid:3)(cid:74)(cid:79)(cid:76)(cid:3)(cid:72)(cid:71)(cid:76)(cid:73)(cid:76)(cid:70)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:72)(cid:3)(cid:76)(cid:81)(cid:71)(cid:88)(cid:86)(cid:87)(cid:85)(cid:76)(cid:72)(cid:15)(cid:3)
+(cid:74)(cid:79)(cid:76)(cid:3) (cid:72)(cid:71)(cid:76)(cid:73)(cid:76)(cid:70)(cid:76)(cid:3) (cid:83)(cid:72)(cid:85)(cid:3) (cid:83)(cid:68)(cid:85)(cid:70)(cid:75)(cid:72)(cid:74)(cid:74)(cid:76)(cid:15)(cid:3) (cid:79)(cid:72)(cid:3) (cid:86)(cid:87)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)
+(cid:73)(cid:72)(cid:85)(cid:85)(cid:82)(cid:89)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3) (cid:72)(cid:3) (cid:80)(cid:72)(cid:87)(cid:85)(cid:82)(cid:83)(cid:82)(cid:79)(cid:76)(cid:87)(cid:68)(cid:81)(cid:72)(cid:3) (cid:72)(cid:3) (cid:74)(cid:79)(cid:76)(cid:3) (cid:72)(cid:71)(cid:76)(cid:73)(cid:76)(cid:70)(cid:76)(cid:3)
+(cid:68)(cid:72)(cid:85)(cid:82)(cid:83)(cid:82)(cid:85)(cid:87)(cid:88)(cid:68)(cid:79)(cid:76)(cid:17)(cid:3)
+(cid:44)(cid:81)(cid:70)(cid:79)(cid:88)(cid:71)(cid:72)(cid:15)(cid:3) (cid:76)(cid:81)(cid:3) (cid:89)(cid:76)(cid:68)(cid:3) (cid:72)(cid:86)(cid:72)(cid:80)(cid:83)(cid:79)(cid:76)(cid:73)(cid:76)(cid:70)(cid:68)(cid:87)(cid:76)(cid:89)(cid:68)(cid:3) (cid:72)(cid:3) (cid:81)(cid:82)(cid:81)(cid:3)
+(cid:72)(cid:86)(cid:68)(cid:88)(cid:86)(cid:87)(cid:76)(cid:89)(cid:68)(cid:29)(cid:3)
+(cid:76)(cid:81)(cid:73)(cid:76)(cid:86)(cid:86)(cid:76)(cid:3) (cid:72)(cid:3) (cid:85)(cid:76)(cid:89)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:76)(cid:3) (cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:81)(cid:76)(cid:3) (cid:72)(cid:71)(cid:3) (cid:72)(cid:86)(cid:87)(cid:72)(cid:85)(cid:81)(cid:76)(cid:15)(cid:3)
+(cid:83)(cid:68)(cid:89)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:15)(cid:3)(cid:80)(cid:68)(cid:86)(cid:86)(cid:72)(cid:87)(cid:87)(cid:76)(cid:3)(cid:72)(cid:3)(cid:86)(cid:82)(cid:87)(cid:87)(cid:82)(cid:73)(cid:82)(cid:81)(cid:71)(cid:76)(cid:15)(cid:3)(cid:86)(cid:82)(cid:79)(cid:68)(cid:76)(cid:3)
+(cid:11)(cid:72)(cid:86)(cid:70)(cid:79)(cid:88)(cid:86)(cid:76)(cid:3) (cid:84)(cid:88)(cid:72)(cid:79)(cid:79)(cid:76)(cid:3) (cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:3) (cid:76)(cid:81)(cid:3) (cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)
+(cid:68)(cid:85)(cid:80)(cid:68)(cid:87)(cid:82)(cid:12)(cid:15)(cid:3)(cid:68)(cid:79)(cid:87)(cid:85)(cid:76)(cid:3)(cid:80)(cid:68)(cid:81)(cid:88)(cid:73)(cid:68)(cid:87)(cid:87)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:72)(cid:3)(cid:83)(cid:79)(cid:68)(cid:86)(cid:87)(cid:76)(cid:70)(cid:75)(cid:72)(cid:15)(cid:3)
+(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:3) (cid:89)(cid:72)(cid:87)(cid:85)(cid:82)(cid:86)(cid:76)(cid:3) (cid:72)(cid:3) (cid:86)(cid:76)(cid:80)(cid:76)(cid:79)(cid:76)(cid:15)(cid:3) (cid:80)(cid:88)(cid:85)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3) (cid:72)(cid:3)
+(cid:87)(cid:85)(cid:68)(cid:80)(cid:72)(cid:93)(cid:93)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3) (cid:70)(cid:82)(cid:80)(cid:83)(cid:85)(cid:72)(cid:81)(cid:86)(cid:76)(cid:89)(cid:72)(cid:3) (cid:71)(cid:76)(cid:3) (cid:76)(cid:81)(cid:87)(cid:82)(cid:81)(cid:68)(cid:70)(cid:68)(cid:87)(cid:88)(cid:85)(cid:68)(cid:15)(cid:3)
+(cid:85)(cid:68)(cid:86)(cid:68)(cid:87)(cid:88)(cid:85)(cid:68)(cid:15)(cid:3)(cid:87)(cid:76)(cid:81)(cid:87)(cid:72)(cid:74)(cid:74)(cid:76)(cid:68)(cid:87)(cid:88)(cid:85)(cid:68)(cid:15)(cid:3)(cid:89)(cid:72)(cid:85)(cid:81)(cid:76)(cid:70)(cid:76)(cid:68)(cid:87)(cid:88)(cid:85)(cid:68)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)
+(cid:73)(cid:76)(cid:81)(cid:76)(cid:87)(cid:88)(cid:85)(cid:68)(cid:3)(cid:84)(cid:88)(cid:68)(cid:79)(cid:76)(cid:3)(cid:76)(cid:86)(cid:82)(cid:79)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:76)(cid:3)(cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:70)(cid:76)(cid:3)(cid:72)(cid:3)(cid:68)(cid:70)(cid:88)(cid:86)(cid:87)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)
+(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:82)(cid:86)(cid:82)(cid:73)(cid:73)(cid:76)(cid:87)(cid:87)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:15)(cid:3)(cid:69)(cid:68)(cid:85)(cid:85)(cid:76)(cid:72)(cid:85)(cid:72)(cid:3)(cid:68)(cid:79)(cid:3)(cid:73)(cid:88)(cid:82)(cid:70)(cid:82)(cid:3)(cid:72)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:72)(cid:3)
+(cid:71)(cid:76)(cid:3)(cid:76)(cid:80)(cid:83)(cid:72)(cid:85)(cid:80)(cid:72)(cid:68)(cid:69)(cid:76)(cid:79)(cid:76)(cid:93)(cid:93)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:15)(cid:3)(cid:73)(cid:68)(cid:70)(cid:70)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:76)(cid:81)(cid:88)(cid:72)(cid:3)(cid:72)(cid:3)
+(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3) (cid:76)(cid:81)(cid:3) (cid:68)(cid:79)(cid:79)(cid:88)(cid:80)(cid:76)(cid:81)(cid:76)(cid:82)(cid:15)(cid:3) (cid:68)(cid:83)(cid:83)(cid:68)(cid:85)(cid:72)(cid:70)(cid:70)(cid:75)(cid:76)(cid:3) (cid:71)(cid:76)(cid:3)
+(cid:68)(cid:83)(cid:83)(cid:82)(cid:74)(cid:74)(cid:76)(cid:82)(cid:3) (cid:76)(cid:81)(cid:3) (cid:74)(cid:82)(cid:80)(cid:80)(cid:68)(cid:17)(cid:3)
+(cid:54)(cid:82)(cid:81)(cid:82)(cid:3) (cid:71)(cid:68)(cid:3) (cid:72)(cid:86)(cid:70)(cid:79)(cid:88)(cid:71)(cid:72)(cid:85)(cid:72)(cid:29)(cid:3)
+(cid:76)(cid:80)(cid:83)(cid:76)(cid:68)(cid:81)(cid:87)(cid:76)(cid:3)(cid:72)(cid:79)(cid:72)(cid:87)(cid:87)(cid:85)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)(cid:87)(cid:72)(cid:70)(cid:81)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)(cid:85)(cid:68)(cid:71)(cid:76)(cid:82)(cid:87)(cid:72)(cid:79)(cid:72)(cid:73)(cid:82)(cid:81)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3)
+(cid:68)(cid:81)(cid:87)(cid:76)(cid:81)(cid:87)(cid:85)(cid:88)(cid:86)(cid:76)(cid:82)(cid:81)(cid:72)(cid:15)(cid:3) (cid:80)(cid:72)(cid:70)(cid:70)(cid:68)(cid:81)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3) (cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:70)(cid:76)(cid:15)(cid:3) (cid:71)(cid:76)(cid:3)
+— 39 —
+
